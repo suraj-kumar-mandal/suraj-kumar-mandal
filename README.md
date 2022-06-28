@@ -1,5 +1,6 @@
 ### Hi there, I'm Suraj 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj-kumar-mandal&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=suraj-kumar-mandal&show_icons=true&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-kumar-mandal&layout=compact](https://github.com/suraj-kumar-mandal/github-readme-stats)
+"/>
