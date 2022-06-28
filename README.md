@@ -5,8 +5,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I'm studying my bachelor in technology in Electrical and Electronics Engineering at NIT Sikkim.
-- 💼 &nbsp; I'm working as software development for autonomous robots and firmware development for embedded systems.
+- 🎓 &nbsp; I'm studying Bachelor of technology in Electrical and Electronics Engineering at NIT Sikkim.
+- 💼 &nbsp; I work for autonomous robots and embedded systems.
 - 🌱 &nbsp; Learning more about filtering algorithm, embedded system design.
 - ✍️ &nbsp; In my free time I read Hindi literature, cook. 
 
@@ -31,13 +31,13 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-kumar-mandal&layout=compact"/>
 </a>
 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/surajkumar-mandal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/surajkumar-mandal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:surajkumarmandal1006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
