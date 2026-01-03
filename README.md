@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I'm studying Bachelor of technology in Electrical and Electronics Engineering at NIT Sikkim.
+- 🎓 &nbsp; I'm graduate in Electrical and Electronics Engineering from NIT Sikkim.
 - 💼 &nbsp; I work for autonomous robots and embedded systems.
 - 🌱 &nbsp; Learning more about filtering algorithm, embedded system design.
 - ✍️ &nbsp; In my free time I read Hindi literature, cook. 
